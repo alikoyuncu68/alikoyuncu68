@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Ali Koyuncu</h1>
-<h3 align="center">A passionate Full- Stack Automation Engineer</h3>
+<h3 align="center">A passionate Software Automation Test Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alikoyuncu68&label=Profile%20views&color=0e75b6&style=flat" alt="alikoyuncu68" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alikoyuncu68" alt="alikoyuncu68" /></a> </p>
 
 - 🔭 I’m currently working on **freelance**
 
@@ -19,6 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alikoyuncu68&show_icons=true&locale=en&layout=compact" alt="alikoyuncu68" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alikoyuncu68&show_icons=true&locale=en" alt="alikoyuncu68" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alikoyuncu68&" alt="alikoyuncu68" /></p>
